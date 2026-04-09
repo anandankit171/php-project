@@ -1,4 +1,4 @@
-# 🚀 PHP Project Discuss
+# 🚀 QueryBoard (PHP project)
 
 > 💬 A simple and interactive discussion platform built with PHP.
 
